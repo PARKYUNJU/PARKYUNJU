@@ -23,7 +23,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/C-007396?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-![화면 캡처 2023-04-28 115216](https://user-images.githubusercontent.com/86733856/235043111-2b0d5cef-a78f-4c81-8543-eb36e0239eea.png)
 
 
   <br>
