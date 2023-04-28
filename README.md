@@ -43,9 +43,3 @@ Here are some ideas to get you started:
 
 
 
-
-프로젝트 목록 |일자|기술스택|링크
-----------|------|----|------
-금융상품서비스|2023|SpringBoot|[나의 프로필](https://github.com/PARKYUNJU)
-금융추천서비스|2023|Node.js
-
